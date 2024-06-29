@@ -39,25 +39,6 @@ button {
                -13px -13px 100px #ffffff;
   }
 
-  .card {
-    width: 500px;
-    height: 250px;
-    padding: 20px;
-    margin: 20px;
-    border-radius: 30px;
-    background: #e0e0e0;
-    box-shadow: 15px 15px 30px #bebebe,
-               -15px -15px 30px #ffffff;
-  }
-
-  .formradio{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    height: 50px;
-    width: 500px;
-  }
   h1 {
     font-family: 'Consolas', 'Courier New', Courier, monospace;
     font-size: 36px;
